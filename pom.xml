@@ -10,7 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>proxy</module>
-        <module>composite</module>
+        <!--<module>composite</module>-->
+        <module>structural</module>
     </modules>
 
     <properties>

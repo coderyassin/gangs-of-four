@@ -1,4 +1,4 @@
-package org.yascode.composite;
+package org.yascode.structural.composite;
 
 public class File implements FileSystemComponent {
     private String name;

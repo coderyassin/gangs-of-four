@@ -1,7 +1,7 @@
-package org.yascode.composite.main;
+package org.yascode.structural.composite.main;
 
-import org.yascode.composite.Directory;
-import org.yascode.composite.File;
+import org.yascode.structural.composite.Directory;
+import org.yascode.structural.composite.File;
 
 public class MainApplication {
 

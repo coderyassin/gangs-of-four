@@ -1,4 +1,6 @@
-package org.yascode.composite;
+package org.yascode.structural.composite;
+
+import org.yascode.structural.composite.FileSystemComponent;
 
 import java.util.ArrayList;
 import java.util.List;
