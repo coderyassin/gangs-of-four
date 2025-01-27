@@ -1,7 +1,7 @@
-package org.yascode.proxy.main;
+package org.yascode.structural.proxy.main;
 
-import org.yascode.proxy.Image;
-import org.yascode.proxy.ImageProxy;
+import org.yascode.structural.proxy.Image;
+import org.yascode.structural.proxy.ImageProxy;
 
 public class MainApplication {
 

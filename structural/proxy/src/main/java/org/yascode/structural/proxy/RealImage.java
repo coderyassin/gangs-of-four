@@ -1,4 +1,4 @@
-package org.yascode.proxy;
+package org.yascode.structural.proxy;
 
 public class RealImage implements Image{
     private String file;

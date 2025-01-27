@@ -1,4 +1,4 @@
-package org.yascode.proxy;
+package org.yascode.structural.proxy;
 
 public class ImageProxy implements Image {
     private RealImage realImage;
