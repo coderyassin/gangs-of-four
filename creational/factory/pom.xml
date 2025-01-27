@@ -5,16 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.yascode</groupId>
-        <artifactId>gangs-of-four</artifactId>
+        <artifactId>creational</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>creational</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>singleton</module>
-        <module>factory</module>
-    </modules>
+    <artifactId>factory</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
