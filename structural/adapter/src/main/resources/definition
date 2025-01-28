@@ -1,0 +1,3 @@
+The Adapter Design Pattern is a structural design pattern that allows incompatible
+interfaces to work together. It acts as a bridge between two classes, translating one
+interface into another that the client expects.
