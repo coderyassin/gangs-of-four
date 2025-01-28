@@ -1,0 +1,2 @@
+This design pattern simplifies interaction with a complex system by providing
+a single interface that hides the details of its internal workings.
